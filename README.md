@@ -1,1 +1,1 @@
-# lydFinal
+Borrando README viejo"
